@@ -15,6 +15,3 @@ elasticsearch-py
 boto3
 awscli
 elasticsearch_dsl
-
-
-
