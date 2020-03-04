@@ -16,3 +16,6 @@ boto3
 awscli
 elasticsearch_dsl
 names
+bs4
+lxml
+html5lib
