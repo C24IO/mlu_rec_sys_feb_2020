@@ -1,2 +1,5 @@
-# mlu_rec_sys_feb_2020
-MLU Rec Sys Course - 2020
+# MLU Rec Sys Course Lab 1 Guide
+
+## Lab instructions
+
+### Lab 1 - is ready to be tried out
