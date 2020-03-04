@@ -11,7 +11,7 @@ msgpack
 kaggle
 ipython
 pandas_summary
-elasticsearch-py
+elasticsearch
 boto3
 awscli
 elasticsearch_dsl
