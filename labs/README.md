@@ -1,6 +1,6 @@
 # MLU Rec Sys Course Lab 1 Guide
 
-## Lab instructions
+## Lab instructions - Lab 1
 
 1. Install docker on your desktop 
 2. git clone this repo & navigate to this directory
